@@ -18,8 +18,9 @@ Machine Learning is not just about learning the algorithms, It consists of some 
 You can Read the whole problem description in kaggle : [Kaggle|Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 There are features [passenger details], we have to predict whether a passenger has transported or not.
 Basically this is a binary classification problem which needs advance feature engineering skills.
+
 **🥊 Challenges:**
-* Have Categorical data which affect the performance if we just `LabelEncode()` it.
+* Have Categorical data which affect the performance if we just `LabelEncode()`it.
 * Variance of the features are very uneven. Scaling the data is very necessary.
 * Irrelivant columns of data like `PassengerId` have to be removed.
 * Other Challenges: Intermediate to advance feature engineering skills needed
