@@ -39,5 +39,6 @@ When opening in colab, dataset have to be downloaded and uploaded on google cola
 
 👉 In the notebook I've provided detailed codes and concepts. If you like it please give a star ⭐️
 
-🧑🏻‍💻 My Profile:
-> * [🔗LinkedIn ](https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/)
+🧑🏻‍💻 My Profiles:
+> * [🔗 LinkedIn](https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/)
+> * [🔗 Kaggle](https://www.kaggle.com/soumyadipbhat)
